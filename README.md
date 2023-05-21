@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Rima! <br><a I am a passionate href="https://www.linkedin.com/in/ri4090a">BI Engineer</a> offering a wealth of experience in Business Intelligence, automated data solutions, and dashboard creation for organizations with a global presence. </a></br>
 
-<!--
-**ri4090a53/ri4090a53** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 BI Engineer Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>SQL Amazon RedShiftnTransforms</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Tableau Dashboards</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[linkedin]: https://linkedin.com/in/ri4090a
