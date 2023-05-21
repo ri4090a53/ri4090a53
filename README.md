@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 BI Engineer Projects:</h2>
 
-- <b>SQL Amazon RedShiftnTransforms</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>[SQL Transform Project #1](https://github.com/ri4090a53/SQL-Transformations)</b>
 - <b>Tableau Dashboards</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 
