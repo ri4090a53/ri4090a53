@@ -1,6 +1,6 @@
-<h1>Hi, I'm Rima! <br><h1> Passionate BI Engineer offering a wealth of experience in Business Intelligence, automated data solutions, and dashboard creation for organizations with a global presence. </a></br></h1>
+<h1>Hi, I'm Rima! :wave: <br><h2> Passionate BI Engineer offering a wealth of experience in Business Intelligence, automated data solutions, and dashboard creation for organizations with a global presence. </br></h2>
 
-<h2>👨‍💻 BI Engineer Projects:</h2>
+<h3>👨‍💻 BI Engineer Projects:</h3>
 
 - <b>[SQL Transform Project #1](https://github.com/ri4090a53/SQL-Transformations)</b>
 - <b>[Tableau Dashboards](https://github.com/ri4090a53/Tableau-Projects/blob/main/README.md)</br>
