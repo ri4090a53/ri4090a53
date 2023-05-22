@@ -2,7 +2,7 @@
 
 <h3>👨‍💻 BI Engineer Projects:</h3>
 
-- <b>[SQL Transform Project #1](https://github.com/ri4090a53/SQL-Transformations)</b>
+- <b>[SQL Transform Project #1]([https://github.com/ri4090a53/SQL-Transformations](https://github.com/ri4090a53/SQL-Transformations/blob/main/SQL%20Transform%20%231.sql))</b>
 - <b>[Tableau Dashboards](https://github.com/ri4090a53/Tableau-Projects/blob/main/README.md)</br>
 
 <h2> 🤳 Connect with me:</h2>
